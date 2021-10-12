@@ -1,7 +1,7 @@
 # Hey I'm @dariustb!
 ## 👋🏾 Hey you guys! 
 
-My name is Darius Brown and I'm a software engineer from Dallas, Texas. I'm based in New York City, NY, and currently work in Engineering at Bloomberg LP. I'm a big fan of music, spoken word poetry, and backend development! Feel free to visit my site, [dariusbrown.dev](https://dariusbrown.dev/), for a more detailed list of my works and projects.
+My name is Darius Brown and I'm a software engineer from Dallas, Texas. I'm based in New York City, NY, and currently work in Engineering at Bloomberg LP. I'm a big fan of music, spoken word poetry, and backend development! Feel free to visit my site, [https://dariusbrown.dev/](https://dariusbrown.dev/), for a more detailed list of my works and projects.
 
 ## 📚 I'm Always Learning!
 
