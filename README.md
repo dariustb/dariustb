@@ -15,8 +15,6 @@ The best way to get ready is to stay ready. I'm always picking up new ideas, wor
 
 This list is only bound to expand as I develop more and study new things about different languages!
 
-As of lately, I've been interested in creating music with technology and have started a couple projects on this idea. More updates to come 😊
-
 ## 🗃️ Under Construction!
 I have some projects in the works that will be added publicly once they are in a presentable state. Similarly, the works that you can find in my [portfolio site](https://dariusbrown.dev/) will eventually become integrated into Github repositories. Thank you for your patience! 
 
