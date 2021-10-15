@@ -28,6 +28,7 @@ Don't be a stranger! Here are my helpful links:
 - **Email**: dariustb@tech-center.com
 - **LinkedIn**: [@dariustb](https://www.linkedin.com/in/dariustb)
 - **Github**: [@dariustb](https://github.com/dariustb)
+- **Replit**: [@dariustb](https://replit.com/@dariustb)
 - **Instagram**: [@sleepyheadbrown](https://www.instagram.com/sleepyheadbrown)
 
 You can best reach me through my email address, but you can find me through these social media platforms as well.
