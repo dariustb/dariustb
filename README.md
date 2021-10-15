@@ -22,7 +22,15 @@ I have some projects in the works that will be added publicly once they are in a
 
 ## 📧 Reach Out!
 
-Don't be a stranger! You can best reach me through my email address: dariustb@tech-center.com
+Don't be a stranger! Here are my helpful links:
+
+- **Portfolio**: [dariusbrown.dev](https://dariusbrown.dev/)
+- **Email**: dariustb@tech-center.com
+- **LinkedIn**: [@dariustb](https://www.linkedin.com/in/dariustb)
+- **Github**: [@dariustb](https://github.com/dariustb)
+- **Instagram**: [@sleepyheadbrown](https://www.instagram.com/sleepyheadbrown)
+
+You can best reach me through my email address, but you can find me through these social media platforms as well.
 
 Feel free to let me know if you want to collaborate, if you'd like to hire me to do freelance programming work, or if you just have some nice words to say 🥰
 
